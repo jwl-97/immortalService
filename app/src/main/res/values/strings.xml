@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">immortal_service</string>
+
+    <string name="start_service">start service</string>
+
+    <string name="stop_service_a">stop just service_a</string>
+    <string name="stop_service_b">stop just service_b</string>
+
+    <string name="stop_service_all">stop all service</string>
+</resources>
